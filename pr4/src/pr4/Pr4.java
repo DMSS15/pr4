@@ -7,7 +7,7 @@ package pr4;
 
 /**
  *
- * @author Juan Carlos
+ * @author pruebaaaaa
  */
 public class Pr4 {
 
