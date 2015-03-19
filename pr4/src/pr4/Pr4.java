@@ -7,8 +7,7 @@ package pr4;
 
 /**
  *
- * @author pruebaaaaa
- */
+ * @author pruebaaaaa hola hola  */
 public class Pr4 {
 
     /**
